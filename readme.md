@@ -2,7 +2,7 @@ Description :: RESTful API TO Generate proposal codes .laravelv5.7
 
 Installation :: 
 * composer install (command)
-*.env.example
+* .env.example
 * php artisan migrate
 * composer dump-autoload (command)
 * php artisan db:seed (command)
